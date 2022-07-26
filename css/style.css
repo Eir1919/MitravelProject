@@ -6,14 +6,14 @@
 @import "_overall.css";
 
 /* components imports */
-@import "components/_header.css";
-@import "components/_first.css";
-@import "components/_become.css";
-@import "components/_featured.css";
-@import "components/_slider.css";
-@import "components/_newsletter.css";
-@import "components/_inspiration.css";
-@import "components/_footer.css";
+@import "./css/ccomponents/_header.css";
+@import "./css/ccomponents/_first.css";
+@import "./css/ccomponents/_become.css";
+@import "./css/ccomponents/_featured.css";
+@import "./css/components/_slider.css";
+@import "./css/ccomponents/_newsletter.css";
+@import "./css/ccomponents/_inspiration.css";
+@import "./css/ccomponents/_footer.css";
 
 /* media queries */
 @import "_media.css";
